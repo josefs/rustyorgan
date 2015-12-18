@@ -1,0 +1,4 @@
+[package]
+name = "rustyorgan"
+version = "0.1.0"
+authors = ["josef <josef.svenningsson@gmail.com>"]
